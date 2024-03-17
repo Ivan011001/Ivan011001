@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A Passionate Fullstack Developer From Ukraine</h3>
 
 - 🔭 I’m currently working on **a lot of things**
 
